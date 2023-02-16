@@ -1,7 +1,18 @@
 Hello :smile:
 
-[![Velog Badge](https://img.shields.io/badge/-velog-green)](https://velog.io/@bandi12)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/nayoungHan)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@bandi12)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nayoungHan)
+
+#### skill
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Pytorch Badge](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Wolfram Mathematica Badge](https://img.shields.io/badge/WolframMathematica-DD1100?style=flat-square&logo=WolframMathematica&logoColor=white)
+
+
+
+
 
 #### activities :computer:
 - 프로그래머스 인공지능 데브코스 4기 2022.09 - 2023.02
