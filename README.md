@@ -26,6 +26,6 @@ As a mathematician, I wrote:
 (https://doi.org/10.1016/j.disc.2019.111771)
 - The Griesmer codes of Belov type and optimal quaternary codes via multi-variable function, Under Review
 
-As a machine learning engineer I wrote:
+As a machine learning engineer, I wrote:
 - 병렬 딥러닝 기법에 관한 연구 동향 분석, 한국통신학회논문지, 2021.10.
  (https://doi.org/10.7840/kics.2021.46.10.1604)
