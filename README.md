@@ -3,7 +3,7 @@ Hello :smile:
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@bandi12)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nayoungHan)
 
-#### skill
+#### skill :wrench:
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Pytorch Badge](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
