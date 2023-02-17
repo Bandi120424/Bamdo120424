@@ -15,7 +15,7 @@ Hello :smile:
 
 
 #### activities :computer:
-- 프로그래머스 인공지능 데브코스 4기 2022.09 - 2023.02
+- 프로그래머스 인공지능 데브코스 4기 2022.09 - 2023.02 (프로젝트 최우수상: https://github.com/BBARRY-Lee/Emotion-subtitle)
 - LG Aimers 2기 2023.01 - 2023.02
 
 #### papers :page_facing_up:	
