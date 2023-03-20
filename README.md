@@ -12,21 +12,20 @@ Hello :smile:
 
 
 
-
-
 #### activities :computer:
 - 네이머 AI Tech 5기 2022.03 - current 
 - 프로그래머스 인공지능 데브코스 4기 2022.09 - 2023.02 (프로젝트 최우수상: https://github.com/BBARRY-Lee/Emotion-subtitle)
 - LG Aimers 2기 2023.01 - 2023.02
 
 #### papers :page_facing_up:	
+As a machine learning engineer, I wrote:
+- 병렬 딥러닝 기법에 관한 연구 동향 분석, 한국통신학회논문지, 2021.10.
+ (https://doi.org/10.7840/kics.2021.46.10.1604)
+ 
 As a mathematician, I wrote:
 - Self-orthogonal codes over $\mathbb{Z}_4$ arising from the chain ring $\mathbb{Z}_4[u]/<\langle u^2+1 \rangle$, *Finite Fields Appl*., 2022.02.
 (https://doi.org/10.1016/j.ffa.2021.101972)
 - Infinite families of MDR cyclic codes over $\mathbb{Z}_4$ via constacyclic codes over $\mathbb{Z}_4[u]/ \langle u^2-1 \rangle$, *Discrete Math*., 2020.03.
 (https://doi.org/10.1016/j.disc.2019.111771)
-- The Griesmer codes of Belov type and optimal quaternary codes via multi-variable function, Under Review
 
-As a machine learning engineer, I wrote:
-- 병렬 딥러닝 기법에 관한 연구 동향 분석, 한국통신학회논문지, 2021.10.
- (https://doi.org/10.7840/kics.2021.46.10.1604)
+
