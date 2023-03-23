@@ -13,7 +13,7 @@ Hello :smile:
 
 
 #### activities :computer:
-- 네이머 AI Tech 5기 2022.03 - current 
+- 네이버 AI Tech 5기 2022.03 - current 
 - 프로그래머스 인공지능 데브코스 4기 2022.09 - 2023.02 (프로젝트 최우수상: https://github.com/BBARRY-Lee/Emotion-subtitle)
 - LG Aimers 2기 2023.01 - 2023.02
 
