@@ -18,7 +18,7 @@ Hello :smile:
 - LG Aimers 2기 2023.01 - 2023.02
 
 #### papers :page_facing_up:	
-As a AI research engineer, I wrote:
+As an AI research engineer, I wrote:
 - 병렬 딥러닝 기법에 관한 연구 동향 분석, 한국통신학회논문지, 2021.10.
  (https://doi.org/10.7840/kics.2021.46.10.1604)
  
