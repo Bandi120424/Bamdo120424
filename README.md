@@ -20,12 +20,9 @@ Hello :smile:
 #### papers :page_facing_up:	
 As an AI research engineer, I wrote:
 - 병렬 딥러닝 기법에 관한 연구 동향 분석, 한국통신학회논문지, 2021.10.
- (https://doi.org/10.7840/kics.2021.46.10.1604)
  
 As a mathematician, I wrote:
 - Self-orthogonal codes over $\mathbb{Z}_4$ arising from the chain ring $\mathbb{Z}_4[u]/<\langle u^2+1 \rangle$, *Finite Fields Appl*., 2022.02.
-(https://doi.org/10.1016/j.ffa.2021.101972)
 - Infinite families of MDR cyclic codes over $\mathbb{Z}_4$ via constacyclic codes over $\mathbb{Z}_4[u]/ \langle u^2-1 \rangle$, *Discrete Math*., 2020.03.
-(https://doi.org/10.1016/j.disc.2019.111771)
 
 
